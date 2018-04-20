@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEFF">
+
+    <ImageView
+        android:id="@+id/splash"
+        android:layout_width="wrap_content"
+        android:layout_margin="10pt"
+        android:layout_height="200pt"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/dev"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed By : HitchB"
+        android:textStyle="bold|italic"
+        android:textSize="8pt"
+        android:textColor="#434343"
+        android:gravity="center"
+        android:layout_below="@+id/splash"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"/>
+
+</RelativeLayout>
