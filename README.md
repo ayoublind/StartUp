@@ -7,7 +7,7 @@
 
 ```groovy
   push an existing repository from the command line
-    #git remote add origin https://github.com/ayoublind/StartUp.git
+    #git clone git://github.com/ayoublind/StartUp.git StartUP
     #git push -u origin master
 ```
 
