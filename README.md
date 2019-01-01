@@ -1,18 +1,16 @@
 # StartUp
 
-# StartUp application
-
 
 # Usage clone
 
 ```groovy
-  push an existing repository from the command line
+  git this repository from the command line on your machine
     #git clone git://github.com/ayoublind/StartUp.git StartUP
     #git push -u origin master
 ```
 
 #Licence
 ```
-  You can use us you want xD
+  You can use it as you want xD
   
 ```
