@@ -1,5 +1,6 @@
 # StartUp
 
+It's an android Application to help startup to get more ideas & to get informations about some startup and their projects {testing project using cardview & recyclerview}
 
 # Usage clone
 
